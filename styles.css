@@ -1,8 +1,8 @@
 body {
-  background: rgb(204,204,204); 
+  background: #14213d; 
 }
 page {
-  background: white;
+  background: rgb(243,238,226);
   display: block;
   margin: 0 auto;
   margin-bottom: 0.5cm;
