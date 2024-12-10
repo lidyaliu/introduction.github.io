@@ -34,7 +34,7 @@ page[size="A5"][layout="landscape"] {
 }
 @media print {
   body, page {
-    background: rgb(243,238,226);
+    background: #14213d;
     margin: 0;
     box-shadow: 0;
   }
